@@ -2,7 +2,7 @@
 Visualization that illustrates various sorting algorithms using the SFML Graphics Library.
 
 [Youtube Link](https://youtu.be/iYjch18GWvI)
-![Image of Yaktocat](https://github.com/ryanlazz16/Sorting-Algorithms-Visualizer/blob/main/Images/mergeExample.png)
+![Image of Visualization](https://github.com/ryanlazz16/Sorting-Algorithms-Visualizer/blob/main/Images/mergeExample.png)
 
 ### Algorithms
 * Selection Sort
